@@ -1,7 +1,7 @@
 # PLP_Python
 Basic Calculator Program - PLP_Python Assignment
 
-This repository contains a basic command-line calculator built with Python, created for a Precision Learning Program (PLP) assignment. It helps users practice arithmetic operations, functions, input handling, and dictionaries.
+This repository contains a basic command-line calculator built with Python, created for a Power Learn Project (PLP) assignment. It helps users practice arithmetic operations, functions, input handling, and dictionaries.
 
 ### Features
 - Performs five arithmetic operations:
